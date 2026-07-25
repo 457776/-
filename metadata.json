@@ -1,0 +1,6 @@
+{
+  "name": "Super Shoe Store",
+  "description": "A premium, fully functional e-commerce shoe store with modern UI, categories, products, and cart functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
